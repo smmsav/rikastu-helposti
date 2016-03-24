@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rikastu helposti</string>
+    <string name="edit_message">Anna osake</string>
+    <string name="button_send">Hae</string>
+</resources>
